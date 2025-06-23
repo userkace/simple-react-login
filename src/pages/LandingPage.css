@@ -3,25 +3,27 @@
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-color: #f0f2f5;
+  background-color: #1a1a1a;
 }
 
 .welcome-box {
-  background: white;
+  background: #2d2d2d;
   padding: 40px;
-  border-radius: 10px;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 25px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
   text-align: center;
+  border: 2px solid #3d3d3d;
   width: 400px;
 }
 
-.welcome-box h1 {
-  color: #333;
+.welcome-box h2 {
+  color: #ffffff;
   margin-bottom: 20px;
+  margin-top: 10px;
 }
 
 .welcome-box p {
-  color: #555;
+  color: #ffffff;
   margin-bottom: 30px;
 }
 
@@ -30,7 +32,7 @@
   background-color: #dc3545;
   color: white;
   border: none;
-  border-radius: 4px;
+  border-radius: 10px;
   cursor: pointer;
   font-size: 16px;
   transition: background-color 0.3s;

@@ -1,8 +1,8 @@
 .footer {
-  background-color: #f8f9fa;
+  background-color: #2d2d2d;
   padding: 20px 0;
   margin-top: auto;
-  border-top: 1px solid #dee2e6;
+  border-top: 1px solid #2d2d2d;
 }
 
 .footer-content {
@@ -19,7 +19,7 @@
 }
 
 .footer-left p {
-  color: #6c757d;
+  color: #fafafa;
   margin: 0;
   font-size: 14px;
 }
@@ -30,7 +30,7 @@
 }
 
 .github-link {
-  color: #007bff;
+  color: #fc9158;
   text-decoration: none;
   font-weight: 500;
   transition: color 0.3s;
@@ -40,17 +40,17 @@
 }
 
 .github-link:hover {
-  color: #0056b3;
+  color: #e5d08e;
 }
 
 .github-link span {
   display: inline-block;
   padding: 5px 10px;
   border-radius: 4px;
-  background-color: #e9ecef;
+  background-color: #1a1a1a;
   font-size: 14px;
 }
 
 .github-link:hover span {
-  background-color: #dee2e6;
+  background-color: #3d3d3d;
 }
